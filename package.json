@@ -1,0 +1,9 @@
+{
+  "name": "famous-last-words-at-1-percent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One-line farewell a phone says at 1 percent battery.",
+  "main": "main.ts",
+  "license": "MIT"
+}
